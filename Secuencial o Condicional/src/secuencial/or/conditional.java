@@ -17,7 +17,7 @@ public class conditional {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        String nombre;
+        String nombre = "";
         String sexo;
         String ed = null;
         Scanner nmin = new Scanner(System.in);

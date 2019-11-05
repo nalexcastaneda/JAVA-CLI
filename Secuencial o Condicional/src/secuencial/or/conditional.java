@@ -17,12 +17,12 @@ public class conditional {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        String nombre = "";
+        String nombre;
         String sexo;
         String ed = null;
         Scanner nmin = new Scanner(System.in);
         System.out.print("Introducir nombre: ");
-        nombre = nmin.next();
+        nombre = nmin.nextLine();
         Scanner sxin = new Scanner(System.in);
         System.out.print("Introducir sexo (Femenino, Masculino): ");
         sexo = sxin.next();

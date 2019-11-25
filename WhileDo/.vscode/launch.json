@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WhileDo",
+            "request": "launch",
+            "mainClass": "doWhile.WhileDo"
+        }
+    ]
+}
